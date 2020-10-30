@@ -1,7 +1,8 @@
-.navbar{
+.navbar {
   display: flex;
   background-color: black;
   padding: 8px;
   color: white;
   font-weight: bold;
 }
+

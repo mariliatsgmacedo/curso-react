@@ -1,2 +1,2 @@
 # curso-react
-Created with CodeSandbox
+Link para o projeto [aqui](https://flfue.csb.app/)
